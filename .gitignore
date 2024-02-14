@@ -30,7 +30,3 @@
 *.exe
 *.out
 *.app
-
-# ignore react folders except build
-my-react-app/*
-!my-react-app/build/
